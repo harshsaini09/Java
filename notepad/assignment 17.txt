@@ -1,0 +1,19 @@
+public class count_vowels 
+{
+public static void main()
+{
+int i; int v=0;
+char ch;
+String s="harsh saini";
+int l=s.length();
+for (i=0;i<=l;i++)
+{
+ ch = s.charAt(i);
+if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+{
+v++;
+}
+System.out.println(v);
+}
+}
+}
