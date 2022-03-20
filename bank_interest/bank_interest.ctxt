@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=bank_interest
+comment0.text=A\ bank\ accepts\ fixed\ deposits\ for\ one\ year\ or\ more\ and\ the\ policy\ it\ adopts\ on\ interest\ is\ as\r\n(i)If\ a\ deposit\ is\ less\ than\ Rs.\ 2000\ and\ for\ 2\ or\ more\ years,\ the\ interest\ rate\ is\ 5\r\ncompounded\ annually.\r\n(i)\ If\ a\ deposit\ is\ Rs.\ 2000\ or\ more\ but\ less\ than\ 6000\ and\ for\ 2\ or\ more\ years,\ the\ interes\r\npercent\ compounded\ annually\r\n(iii)\ If\ a\ deposit\ is\ more\ than\ Rs.\ 6000\ and\ is\ for\ 1\ year\ or\ more,\ the\ interest\ is\r\ncompounded\ annually,\r\n
+comment1.params=p\ t
+comment1.target=void\ main(int,\ int)
+numComments=2

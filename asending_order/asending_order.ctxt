@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=asending_order
+comment0.text=give\ three\ number\ a,b\ and\ c\ write\ a\ program\ to\ write\ their\ value\ in\ an\ asending\ order.
+comment1.params=a\ b\ c
+comment1.target=void\ main(int,\ int,\ int)
+numComments=2

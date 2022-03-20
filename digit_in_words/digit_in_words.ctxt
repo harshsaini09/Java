@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=digit_in_words
+comment0.text=write\ a\ program\ to\ input\ a\ digit\ and\ print\ it\ in\ words.
+comment1.params=n
+comment1.target=void\ main(int)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=digit_char
+comment0.text=write\ a\ program\ to\ find\ whether\ the\ given\ character\ is\ a\ digit\ or\ a\ letter.
+comment1.params=c
+comment1.target=void\ main(int)
+numComments=2

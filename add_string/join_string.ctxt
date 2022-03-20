@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=join_string
+comment1.params=s\ r
+comment1.target=void\ main(java.lang.String,\ java.lang.String)
+numComments=2

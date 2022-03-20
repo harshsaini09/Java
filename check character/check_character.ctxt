@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=check_character
+comment0.text=write\ a\ program\ to\ check\ enter\ character\ is\ in\ upper\ case,lower\ case\ or\ a\ digit
+comment1.params=i
+comment1.target=void\ main(int)
+numComments=2
